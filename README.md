@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nicolasoliveiramor
-- 👀 I’m interested in ...
+- 👀 I’m interested in enter a programming career
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? My facebook: Nicolas Oliveira Mor.
