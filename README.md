@@ -5,7 +5,7 @@ Meu nome é Nicolas, estou cursando lógica de programação e desenvolvedor Ful
 
 ### Habilidades
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasoliveiramor&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -19,4 +19,4 @@ Meu nome é Nicolas, estou cursando lógica de programação e desenvolvedor Ful
 
 ### Contato
 
-[![My Skills](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/u/0/#inbox)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](title=nicolasoliveiramor05@gmail.com)
