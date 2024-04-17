@@ -22,5 +22,6 @@ Meu nome é Nicolas, estou cursando lógica de programação e desenvolvedor Ful
 ### Contato
 
 <img align="start" src="https://skillicons.dev/icons?i=gmail" /> 
-  <a align-items="center" href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=nicolasoliveiramor05@gmail.com" target="_blank" >nicolasoliveiramor05gmail.com</a>
+  <a target="_blank" ></a>
+  <a target="_blank" align-items="center" href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=nicolasoliveiramor05@gmail.com"  >nicolasoliveiramor05gmail.com</a>
 
