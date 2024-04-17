@@ -5,9 +5,9 @@ Meu nome é Nicolas, estou cursando lógica de programação e desenvolvedor Ful
 
 ### Habilidades
 
-<img align="start" src="https://skillicons.dev/icons?i=html,css" />
+<img align="start" src="https://skillicons.dev/icons?i=html,css" />]
 
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasoliveiramor&show_icons=true&theme=merko)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasoliveiramor&show_icons=true&theme=merko)
 
 ### Projetos 
 
