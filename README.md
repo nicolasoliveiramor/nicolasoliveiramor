@@ -20,3 +20,12 @@ Meu nome é Nicolas, estou cursando lógica de programação e desenvolvedor Ful
 ### Contato
 
 [![My Skills](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/u/0/#inbox)
+
+### teste 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicolasoliveiramor&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicolasoliveiramor&repo=convoychat" />
+</a>
