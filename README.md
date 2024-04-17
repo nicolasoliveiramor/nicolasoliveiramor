@@ -21,8 +21,5 @@ Meu nome é Nicolas, estou cursando lógica de programação e desenvolvedor Ful
 
 ### Contato
 
-[![My Skills](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/u/0/#inbox) 
+[![Contact](https://skillicons.dev/icons?i=gmail) <a text-align="center">nicolasoliveiramor05@gmail.com</a>
 
-<a href="https://github.com/nicolasoliveiramor/site_ww2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicolasoliveiramor&repo=site_ww2&theme=merko" />
-</a>
