@@ -11,7 +11,7 @@ Meu nome é Nicolas, estou cursando lógica de programação e desenvolvedor Ful
 
 ### Projetos 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasoliveiramor&repo=site_ww2&show_icons=true&theme=merko)](https://github.com/nicolasoliveiramor/github-readme-stats&repo=site_ww2)
+[![Readme Card](https://github.com/nicolasoliveiramor/site_ww2?username=nicolasoliveiramor&repo=site_ww2&show_icons=true&theme=merko)](https://github.com/nicolasoliveiramor/github-readme-stats&repo=site_ww2)
 
 ### Linguagens
 
