@@ -23,9 +23,6 @@ Meu nome é Nicolas, estou cursando lógica de programação e desenvolvedor Ful
 
 ### teste 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/nicolasoliveiramor/site_ww2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicolasoliveiramor&repo=site_ww2&theme=merko" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicolasoliveiramor&repo=convoychat" />
 </a>
