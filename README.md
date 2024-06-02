@@ -11,7 +11,7 @@ Meu nome é Nicolas, estou cursando lógica de programação e desenvolvedor Ful
 
 ### Projetos 
 
-<a href="https://github.com/nicolasoliveiramor/site_ww2">
+<a href="https://github.com/nicolasoliveiramor/projeto_god_final.git">
   <img align="center" src="https://github.com/nicolasoliveiramor/projeto_god_final.git&theme=merko" />
 </a>
 
