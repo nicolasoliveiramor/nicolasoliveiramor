@@ -5,7 +5,7 @@ Meu nome é Nicolas, estou cursando lógica de programação e desenvolvedor Ful
 
 ### Habilidades
 
-<img align="start" src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery" />
+<img align="start" src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery" />
 
 <img align="start" src="https://github-readme-stats.vercel.app/api?username=nicolasoliveiramor&show_icons=true&theme=merko" />
 
