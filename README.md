@@ -11,7 +11,7 @@ Meu nome é Nicolas, estou cursando lógica de programação e desenvolvedor Ful
 
 ### Projetos 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasoliveiramor&repo=projeto_god_final&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasoliveiramor&repo=projeto_god_final&theme=merko)
 
 ### Linguagens
 
