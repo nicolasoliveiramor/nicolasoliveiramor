@@ -13,7 +13,7 @@
 
 <div align="center" >
   <h2>Status</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=nicolasoliveiramor&show_icons=true&theme=merko" height="200" width="450"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=nicolasoliveiramor&show_icons=true&theme=merko" height="200" width="445"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasoliveiramor&layout=compact&theme=merko" height="200" width="340"/>
 </div>
   
