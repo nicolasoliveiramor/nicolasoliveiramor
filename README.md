@@ -14,7 +14,7 @@
 
 <div align="center">
   <h2>Status</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=nicolasoliveiramor&show_icons=true&theme=merko" height="30px" width="300" />
+    <img src="https://github-readme-stats.vercel.app/api?username=nicolasoliveiramor&show_icons=true&theme=merko" height="1000px" width="300" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasoliveiramor&compact_progress=true&theme=merko" width="300" />
 </div>
   
