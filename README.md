@@ -11,8 +11,13 @@
   <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery" />
 </div>
 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicolasoliveiramor&show_icons=true&theme=merko" />
+  <h2>Status</h2>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=nicolasoliveiramor&show_icons=true&theme=merko" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasoliveiramor&compact_progress=true&theme=merko">
+  </div>
 </div>
   
   ### Projeto 
