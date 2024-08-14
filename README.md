@@ -15,8 +15,8 @@
 <div align="center">
   <h2>Status</h2>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=nicolasoliveiramor&show_icons=true&theme=merko" height="200" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasoliveiramor&compact_progress=true&theme=merko" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=nicolasoliveiramor&show_icons=true&theme=merko" height="200" width="300" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasoliveiramor&compact_progress=true&theme=merko" height="200" width="300" />
   </div>
 </div>
   
