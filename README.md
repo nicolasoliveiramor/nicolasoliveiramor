@@ -14,10 +14,8 @@
 
 <div align="center" >
   <h2>Status</h2>
-  <div style="display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=nicolasoliveiramor&show_icons=true&theme=merko" height="200" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=nicolasoliveiramor&show_icons=true&theme=merko" height="200" width="400" aspection-ratio="none"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasoliveiramor&layout=compact&theme=merko" height="200"/>
-  </div>
 </div>
   
   ### Projeto 
