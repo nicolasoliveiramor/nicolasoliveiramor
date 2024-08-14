@@ -22,12 +22,10 @@
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasoliveiramor&repo=exercicio_EBAC_sass&theme=merko)](https://github.com/nicolasoliveiramor/exercicio_EBAC_sass.git)
   
-  ### Linguagens
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasoliveiramor&compact_progress=true&theme=merko)
-  
-  ### Contato
-  
-  <a href="https://mail.google.com/mail/nicolasoliveiramor05@gmail.com" target="_blank">
-    <img align="start" src="https://skillicons.dev/icons?i=gmail" alt="gmail-logo" />
+<h2>Contato</h2>
+<div align="left">
+    <a href="https://mail.google.com/mail/nicolasoliveiramor05@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="gmail-logo" />
   </a>
+</div>
