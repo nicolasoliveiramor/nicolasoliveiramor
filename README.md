@@ -11,21 +11,20 @@
   <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery" />
 </div>
 
-
 <div align="center" >
   <h2>Status</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=nicolasoliveiramor&show_icons=true&theme=merko" height="200"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasoliveiramor&layout=compact&theme=merko" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=nicolasoliveiramor&show_icons=true&theme=merko" height="200" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasoliveiramor&layout=compact&theme=merko" height="200" width="400"/>
 </div>
   
-<h2>Projeto</h2>
 <div align="center">
+  <h2>Projeto</h2>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicolasoliveiramor&repo=exercicio_EBAC_sass&theme=merko" height="150"/>
 </div> 
   
-<h2>Contato</h2>
 <div align="left">
-    <a href="https://mail.google.com/mail/nicolasoliveiramor05@gmail.com" target="_blank">
+  <h2>Contato</h2>
+  <a href="https://mail.google.com/mail/nicolasoliveiramor05@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="gmail-logo" />
   </a>
 </div>
