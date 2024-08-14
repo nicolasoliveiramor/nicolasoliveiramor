@@ -1,8 +1,11 @@
 <div align="center">
-  ### Olá tudo bem?
+  <h1>Olá tudo bem?</h1>
   
-  ###### Sobre o Nicolas
-  Meu nome é Nicolas, estou cursando lógica de programação e desenvolvedor Full-stack Python na EBAC. Tenho 20 anos, e alguns projetos em repositorios neste meu perfil, abaixo deixei neste README o link do meu projeto mais recente.
+  <h2>Sobre o Nicolas</h2>
+    <p>
+      Meu nome é Nicolas, estou cursando lógica de programação e desenvolvedor Full-stack Python na EBAC. Tenho 20 anos, e alguns projetos em repositorios neste meu perfil, abaixo 
+      deixei neste README o link do meu projeto mais recente.
+    </p>
 </div>
   
   ### Habilidades
