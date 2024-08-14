@@ -15,8 +15,8 @@
 <div align="center" >
   <h2>Status</h2>
   <div style="display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=nicolasoliveiramor&show_icons=true&theme=merko" width="300"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasoliveiramor&layout=compact&theme=merko" width="300"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=nicolasoliveiramor&show_icons=true&theme=merko" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasoliveiramor&layout=compact&theme=merko" height="200"/>
   </div>
 </div>
   
