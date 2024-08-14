@@ -18,10 +18,10 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasoliveiramor&layout=compact&theme=merko" height="200"/>
 </div>
   
-  ### Projeto 
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasoliveiramor&repo=exercicio_EBAC_sass&theme=merko)](https://github.com/nicolasoliveiramor/exercicio_EBAC_sass.git)
-  
+<h2>Projeto</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicolasoliveiramor&repo=exercicio_EBAC_sass&theme=merko"/>
+</div> 
   
 <h2>Contato</h2>
 <div align="left">
