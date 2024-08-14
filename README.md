@@ -6,13 +6,13 @@
     </p>
 </div>
   
-  ### Habilidades
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery" />
   
-  <img align="start" src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nicolasoliveiramor&show_icons=true&theme=merko" />
+</div>
   
-  <img align="start" src="https://github-readme-stats.vercel.app/api?username=nicolasoliveiramor&show_icons=true&theme=merko" />
-  
-  ### Projetos 
+  ### Projeto 
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasoliveiramor&repo=exercicio_EBAC_sass&theme=merko)](https://github.com/nicolasoliveiramor/exercicio_EBAC_sass.git)
   
