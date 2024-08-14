@@ -12,7 +12,7 @@
 </div>
 
 
-<div align="center">
+<div align-items="center" >
   <h2>Status</h2>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasoliveiramor&compact_progress=true&theme=merko"/>
     <img src="https://github-readme-stats.vercel.app/api?username=nicolasoliveiramor&show_icons=true&theme=merko"/>
