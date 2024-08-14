@@ -3,6 +3,7 @@
   
   ###### Sobre o Nicolas
   Meu nome é Nicolas, estou cursando lógica de programação e desenvolvedor Full-stack Python na EBAC. Tenho 20 anos, e alguns projetos em repositorios neste meu perfil, abaixo deixei neste README o link do meu projeto mais recente.
+</div>
   
   ### Habilidades
   
@@ -23,4 +24,3 @@
   <a href="https://mail.google.com/mail/nicolasoliveiramor05@gmail.com" target="_blank">
     <img align="start" src="https://skillicons.dev/icons?i=gmail" alt="gmail-logo" />
   </a>
-</div>
