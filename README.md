@@ -7,8 +7,11 @@
 </div>
   
 <div align="center">
+  <h2>Habilidades</h2>
   <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery" />
-  
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nicolasoliveiramor&show_icons=true&theme=merko" />
 </div>
   
