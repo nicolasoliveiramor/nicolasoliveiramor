@@ -19,7 +19,7 @@
   
 <div align="center">
   <h2>Projeto</h2>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicolasoliveiramor&repo=exercicio_EBAC_sass&theme=merko" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicolasoliveiramor&repo=exercicio_grunt&theme=merko" height="150"/>
 </div> 
   
 <div align="left">
