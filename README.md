@@ -19,7 +19,9 @@
   
 <div align="center">
   <h2>Projeto</h2>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicolasoliveiramor&repo=exercicio_grunt&theme=merko" height="150"/>
+  <a href="https://github.com/nicolasoliveiramor/exercicio_grunt.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicolasoliveiramor&repo=exercicio_grunt&theme=merko" height="150"/>
+  </a>
 </div> 
   
 <div align="left">
