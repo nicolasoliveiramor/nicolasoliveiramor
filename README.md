@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Aluno em Full-Stack Python EBAC</h1>
     <p>
-      Meu nome é Nicolas, estou cursando lógica de programação e desenvolvedor Full-stack Python (28% do curso já concluido) na EBAC. Tenho 20 anos, e alguns projetos em repositorios neste meu perfil, abaixo 
+      Meu nome é Nicolas, estou cursando lógica de programação e desenvolvedor Full-stack Python (35% do curso já concluido) na EBAC. Tenho 20 anos, e alguns projetos em repositorios neste meu perfil, abaixo 
       deixei neste README o link do meu projeto mais recente.
     </p>
 </div>
