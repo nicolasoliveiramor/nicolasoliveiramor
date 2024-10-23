@@ -20,7 +20,7 @@
 <div align="center">
   <h2>Projeto</h2>
   <a href="https://github.com/nicolasoliveiramor/exercicio_grunt.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicolasoliveiramor&repo=exercicio_grunt&theme=merko" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicolasoliveiramor&repo=exercicio_AJAX_ebac&theme=merko" height="150"/>
   </a>
 </div> 
   
