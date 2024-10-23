@@ -18,7 +18,7 @@
 </div>
   
 <div align="center">
-  <h2>Último Projeto</h2>
+  <h2>Projeto Recente</h2>
   <a href="https://github.com/nicolasoliveiramor/exercicio_AJAX_EBAC.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicolasoliveiramor&repo=exercicio_AJAX_EBAC&theme=merko" height="150"/>
   </a>
