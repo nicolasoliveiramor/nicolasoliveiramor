@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Desenvolvedor Front-End</h1>
     <p>
-      Meu nome é Nicolas, estou cursando lógica de programação e desenvolvedor Full-stack Python (70% do curso já concluido) na EBAC. Tenho data.getTime() anos, e alguns projetos em repositorios neste meu perfil, abaixo 
+      Meu nome é Nicolas, estou cursando lógica de programação e desenvolvedor Full-stack Python (70% do curso já concluido) na EBAC. Tenho 21 anos, e alguns projetos em repositorios neste meu perfil, abaixo 
       deixei neste README o link do meu projeto mais recente.
     </p>
 </div>
@@ -30,6 +30,6 @@
     <img src="https://skillicons.dev/icons?i=gmail" alt="gmail-logo" />
   </a>
   <a href="www.linkedin.com/in/nicolas-oliveira-mor-1397912ab" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedIn" alt="linkedIn-logo" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin-logo" />
   </a>
 </div>
