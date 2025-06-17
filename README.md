@@ -8,7 +8,7 @@
   
 <div align="center">
   <h2>Habilidades</h2>
-  <img src="https://skillicons.dev/icons?i=react,vue,typescript,jquery" />
+  <img src="https://skillicons.dev/icons?i=react,vue,typescript,jest,cypress" />
 </div>
 
 <div align="center" >
