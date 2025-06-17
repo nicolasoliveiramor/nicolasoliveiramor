@@ -29,7 +29,7 @@
   <a href="https://mail.google.com/mail/nicolasoliveiramor05@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="gmail-logo" />
   </a>
-  <a href="www.linkedin.com/in/nicolas-oliveira-mor-1397912ab" target="_blank">
+  <a href="https://www.linkedin.com/in/nicolas-oliveira-mor-1397912ab" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin-logo" />
   </a>
 </div>
