@@ -6,7 +6,8 @@
     </p> 
     <br />
     <p>
-      Link para meu portfólio: <a>portfolionicolas.com.br</a>
+      Link para meu portfólio: 
+      <a>www.portfolionicolas.com.br</a>
     </p> 
 </div>
   
