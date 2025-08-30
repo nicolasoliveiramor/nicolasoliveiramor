@@ -1,9 +1,13 @@
 <div align="center">
   <h1>Desenvolvedor Front-End</h1>
     <p>
-      Meu nome é Nicolas, estou cursando lógica de programação e desenvolvedor Full-stack Python (70% do curso já concluido) na EBAC. Tenho 21 anos, e alguns projetos em repositorios neste meu perfil, abaixo 
+      Meu nome é Nicolas, estou cursando desenvolvedor Full-stack Python (89% do curso já concluido) na EBAC. Tenho 21 anos, e projetos em repositorios neste meu perfil, abaixo 
       deixei neste README o link do meu projeto mais recente.
-    </p>
+    </p> 
+    <br />
+    <p>
+      Link para meu portfólio: <a>www.portfolionicolas.com.br</a>
+    </p> 
 </div>
   
 <div align="center">
