@@ -18,6 +18,7 @@
   <img height="40" src="https://cdn.simpleicons.org/vue.js" />
   <img height="40" src="https://cdn.simpleicons.org/typescript" />
   <img height="40" src="https://cdn.simpleicons.org/javascript" />
+  <img height="40" src="https://cdn.simpleicons.org/styled-components" />
   <img height="40" src="https://cdn.simpleicons.org/sass" />
   <img height="40" src="https://cdn.simpleicons.org/css" />
 </div>
