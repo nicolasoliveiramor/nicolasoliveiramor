@@ -37,4 +37,7 @@
   <a href="https://www.linkedin.com/in/nicolas-oliveira-mor-1397912ab" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin-logo" />
   </a>
+  <a href="https://wa.me/5511933961754" target="_blank">
+    <img src="https://skillicons.dev/icons?i=whatsapp" alt="whatsapp-logo" />
+  </a>
 </div>
