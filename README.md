@@ -19,7 +19,7 @@
 <div align="center" >
   <h2>Status</h2>
     <img src="https://github-stats-nicolas.vercel.app/api?username=nicolasoliveiramor&show_icons=true&theme=merko" height="200" width="445"/>
-    <img src="https://github-stats-nicolas.vercel.app/api/top-langs/?username=nicolasoliveiramor&layout=compact&theme=merko" height="190" width="340"/>
+    <img src="https://github-stats-nicolas.vercel.app/api/top-langs/?username=nicolasoliveiramor&layout=compact&theme=merko" height="185" width="340"/>
 </div>
   
 <div align="center">
