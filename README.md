@@ -13,7 +13,7 @@
   
 <div align="center">
   <h2>Habilidades</h2>
-  <img src="https://skillicons.dev/icons?i=react,redux" />
+  <img src="https://skillicons.dev/icons?i=react,redux,vue,ts" />
 </div>
 
 <div align="center" >
