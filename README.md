@@ -20,8 +20,13 @@
   <img height="40" src="https://cdn.simpleicons.org/javascript" />
   <img height="40" src="https://cdn.simpleicons.org/styledcomponents" />
   <img height="40" src="https://cdn.simpleicons.org/sass" />
-  <img height="40" src="https://cdn.simpleicons.org/css3" />
+  <img height="40" src="https://cdn.simpleicons.org/css" />
   <img height="40" src="https://cdn.simpleicons.org/html5" />
+  <img height="40" src="https://cdn.simpleicons.org/git" />
+  <img height="40" src="https://cdn.simpleicons.org/python" />
+  <img height="40" src="https://cdn.simpleicons.org/django" />
+  <img height="40" src="https://cdn.simpleicons.org/postgresql" />
+  <img height="40" src="https://cdn.simpleicons.org/docker" />
 </div>
 
 <div align="center" >
