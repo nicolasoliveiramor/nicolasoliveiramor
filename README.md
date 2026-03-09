@@ -13,7 +13,9 @@
   
 <div align="center">
   <h2>Habilidades</h2>
-  <img src="https://skillicons.dev/icons?i=react,redux,ts" />
+  <img src="https://skillicons.dev/icons?i=react,redux" />
+  <img src="https://skillicons.dev/icons?i=vue,ts" />
+  <img src="https://skillicons.dev/icons?i=react,redux" />
 </div>
 
 <div align="center" >
