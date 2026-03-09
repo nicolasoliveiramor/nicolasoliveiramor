@@ -15,7 +15,7 @@
   <h2>Habilidades</h2>
   <img height="40" src="https://cdn.simpleicons.org/react" />
   <img height="40" src="https://cdn.simpleicons.org/redux" />
-  <img height="40" src="https://cdn.simpleicons.org/vue" />
+  <img height="40" src="https://cdn.simpleicons.org/vue.js" />
   <img height="40" src="https://cdn.simpleicons.org/typescript" />
   <img height="40" src="https://cdn.simpleicons.org/javascript" />
   <img height="40" src="https://cdn.simpleicons.org/sass" />
