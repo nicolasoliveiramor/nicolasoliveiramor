@@ -13,7 +13,13 @@
   
 <div align="center">
   <h2>Habilidades</h2>
-  <img src="https://cdn.simpleicons.org/python" />
+  <img height="40" src="https://cdn.simpleicons.org/react" />
+  <img height="40" src="https://cdn.simpleicons.org/redux" />
+  <img height="40" src="https://cdn.simpleicons.org/vue" />
+  <img height="40" src="https://cdn.simpleicons.org/typescript" />
+  <img height="40" src="https://cdn.simpleicons.org/javascript" />
+  <img height="40" src="https://cdn.simpleicons.org/sass" />
+  <img height="40" src="https://cdn.simpleicons.org/css" />
 </div>
 
 <div align="center" >
