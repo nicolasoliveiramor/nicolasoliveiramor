@@ -13,7 +13,7 @@
   
 <div align="center">
   <h2>Habilidades</h2>
-  <img  height="40" src="https://cdn.simpleicons.org/python" />
+  <img height="40" src="https://cdn.simpleicons.org/python,docker" />
 </div>
 
 <div align="center" >
