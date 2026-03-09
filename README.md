@@ -20,7 +20,7 @@
   <img height="40" src="https://cdn.simpleicons.org/javascript" />
   <img height="40" src="https://cdn.simpleicons.org/styledcomponents" />
   <img height="40" src="https://cdn.simpleicons.org/sass" />
-  <img height="40" src="https://cdn.simpleicons.org/css" />
+  <img height="40" src="https://cdn.simpleicons.org/css3" />
   <img height="40" src="https://cdn.simpleicons.org/html5" />
 </div>
 
