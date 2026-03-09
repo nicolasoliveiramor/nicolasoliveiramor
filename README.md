@@ -13,7 +13,7 @@
   
 <div align="center">
   <h2>Habilidades</h2>
-  <img src="https://skillicons.dev/icons?i=react,redux,typescript" />
+  <img  height="40" src="https://cdn.simpleicons.org/python" />
 </div>
 
 <div align="center" >
