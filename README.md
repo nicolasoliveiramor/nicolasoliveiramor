@@ -19,13 +19,13 @@
 <div align="center" >
   <h2>Status</h2>
     <img src="https://streak-stats.demolab.com/?user=nicolasoliveiramor" height="200" width="445"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasoliveiramor&layout=compact&theme=merko" height="200" width="340"/>
+    <img src="https://github-stats-nicolas.vercel.app/api/top-langs/?username=nicolasoliveiramor&layout=compact&theme=merko" height="200" width="340"/>
 </div>
   
 <div align="center">
   <h2>Projeto Recente</h2>
   <a href="https://github.com/nicolasoliveiramor/my_portfolio.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicolasoliveiramor&repo=my_portfolio&theme=merko" height="150"/>
+    <img src="https://github-stats-nicolas.vercel.app/api/pin/?username=nicolasoliveiramor&repo=my_portfolio&theme=merko" height="150"/>
   </a>
 </div> 
   
