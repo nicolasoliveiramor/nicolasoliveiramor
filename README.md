@@ -57,13 +57,10 @@
 <div align="center">
   <h2>Contato</h2>
   <a href="https://www.linkedin.com/in/nicolasoliveiramor" target="_blank">
-    <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&labelColor=0A66C2&color=0A66C2&link=www.linkedin.com%2Fin%2Fnicolasoliveiramor">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&labelColor=0A66C2&color=0A66C2&link=www.linkedin.com%2Fin%2Fnicolasoliveiramor">
   </a>
   <a href="https://wa.me/5511933961754" target="_blank">
-    <img alt="Static Badge" src="<img alt="Static Badge" src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge">
-  </a>
-  <a href="https://wa.me/5511933961754" target="_blank">
-    <img alt="Static Badge" src="<img alt="Static Badge" src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge">
+    <img src="<img alt="Static Badge" src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge">
   </a>
   <a href="mailto:nicolasoliveramor05@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
