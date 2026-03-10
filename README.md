@@ -5,11 +5,6 @@
 
       Tenho um perfil comunicativo, flexível e colaborativo, com facilidade para trabalhar em equipe e compreender diferentes necessidades dentro de um projeto. Busco constantemente aprimorar meus conhecimentos     técnicos e aprofundar-me em novas tecnologias, mantendo uma postura proativa e aberta ao aprendizado contínuo no desenvolvimento de soluções eficientes e escaláveis.
     </p> 
-    <br />
-    <p>
-      Link para meu portfólio: 
-      <a>www.portfolionicolas.com.br</a>
-    </p> 
 </div>
 
 <div align="center">
