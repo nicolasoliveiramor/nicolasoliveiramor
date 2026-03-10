@@ -36,7 +36,7 @@
 </div>
   
 <div align="center">
-  <h2>Projeto Recente</h2>
+  <h2>Projeto</h2>
   <a href="https://github.com/nicolasoliveiramor/my_portfolio.git">
     <img src="https://github-stats-nicolas.vercel.app/api/pin/?username=nicolasoliveiramor&repo=my_portfolio&theme=merko" height="150"/>
   </a>
