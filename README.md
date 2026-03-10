@@ -45,12 +45,12 @@
 <div align="center">
   <h2>Contato</h2>
   <a href="https://mail.google.com/mail/nicolasoliveiramor05@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="gmail-logo" />
+    <img height="40" src="https://cdn.simpleicons.org/gmail" />
   </a>
   <a href="https://www.linkedin.com/in/nicolas-oliveira-mor-1397912ab" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin-logo" />
+    <img height="40" src="https://cdn.simpleicons.org/linkedin" />
   </a>
   <a href="https://wa.me/5511933961754" target="_blank">
-    <img src="https://skillicons.dev/icons?i=whatsapp" alt="whatsapp-logo" />
+    <img height="40" src="https://cdn.simpleicons.org/whatsapp" />
   </a>
 </div>
