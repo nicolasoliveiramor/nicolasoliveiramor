@@ -15,26 +15,26 @@
   <h2>Habilidades</h2>
 </div>
 
-<div align="right">
-  <img height="40" src="https://cdn.simpleicons.org/react" />
-  <img height="40" src="https://cdn.simpleicons.org/redux" />
-  <img height="40" src="https://cdn.simpleicons.org/vue.js" />
-  <img height="40" src="https://cdn.simpleicons.org/typescript" />
-  <img height="40" src="https://cdn.simpleicons.org/javascript" />
-  <img height="40" src="https://cdn.simpleicons.org/styledcomponents" />
-  <img height="40" src="https://cdn.simpleicons.org/sass" />
-  <img height="40" src="https://cdn.simpleicons.org/css" />
-  <img height="40" src="https://cdn.simpleicons.org/html5" />
-</div>  
-  
-<div align="left">
-  <img height="40" src="https://cdn.simpleicons.org/git" />
-  <img height="40" src="https://cdn.simpleicons.org/python" />
-  <img height="40" src="https://cdn.simpleicons.org/django" />
-  <img height="40" src="https://cdn.simpleicons.org/postgresql" />
-  <img height="40" src="https://cdn.simpleicons.org/docker" />
+<div align="center">
+  <div align="right">
+    <img height="40" src="https://cdn.simpleicons.org/react" />
+    <img height="40" src="https://cdn.simpleicons.org/redux" />
+    <img height="40" src="https://cdn.simpleicons.org/vue.js" />
+    <img height="40" src="https://cdn.simpleicons.org/typescript" />
+    <img height="40" src="https://cdn.simpleicons.org/javascript" />
+    <img height="40" src="https://cdn.simpleicons.org/styledcomponents" />
+    <img height="40" src="https://cdn.simpleicons.org/sass" />
+    <img height="40" src="https://cdn.simpleicons.org/css" />
+    <img height="40" src="https://cdn.simpleicons.org/html5" />
+  </div>  
+  <div align="left">
+    <img height="40" src="https://cdn.simpleicons.org/git" />
+    <img height="40" src="https://cdn.simpleicons.org/python" />
+    <img height="40" src="https://cdn.simpleicons.org/django" />
+    <img height="40" src="https://cdn.simpleicons.org/postgresql" />
+    <img height="40" src="https://cdn.simpleicons.org/docker" />
+  </div>
 </div>
-
 
 <div align="center" >
   <h2>Status</h2>
