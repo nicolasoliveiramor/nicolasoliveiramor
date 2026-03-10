@@ -15,8 +15,8 @@
   <h2>Habilidades</h2>
 </div>
 
-<div align="left">
-    <h2>Front-end</h2>
+<div align="center">
+    <h3>Front-end</h3>
     <img height="40" src="https://cdn.simpleicons.org/react" />
     <img height="40" src="https://cdn.simpleicons.org/redux" />
     <img height="40" src="https://cdn.simpleicons.org/vue.js" />
@@ -28,8 +28,8 @@
     <img height="40" src="https://cdn.simpleicons.org/html5" />
 </div>
 
-<div align="left">
-    <h2>Back-end</h2>
+<div align="center">
+    <h3>Back-end</h3>
     <img height="40" src="https://cdn.simpleicons.org/git" />
     <img height="40" src="https://cdn.simpleicons.org/python" />
     <img height="40" src="https://cdn.simpleicons.org/django" />
