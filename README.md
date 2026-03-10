@@ -30,11 +30,15 @@
 
 <div align="center">
     <h3>Back-end</h3>
-    <img height="40" src="https://cdn.simpleicons.org/git" />
     <img height="40" src="https://cdn.simpleicons.org/python" />
     <img height="40" src="https://cdn.simpleicons.org/django" />
     <img height="40" src="https://cdn.simpleicons.org/postgresql" />
     <img height="40" src="https://cdn.simpleicons.org/docker" />
+</div>
+<div align="center">
+    <h3>Versionamento</h3>
+    <img height="40" src="https://cdn.simpleicons.org/git" />
+    <img height="40" src="https://cdn.simpleicons.org/github" />
 </div>
 
 <div align="center" >
@@ -49,3 +53,4 @@
     <img src="https://github-stats-nicolas.vercel.app/api/pin/?username=nicolasoliveiramor&repo=my_portfolio&theme=merko" height="150"/>
   </a>
 </div> 
+
