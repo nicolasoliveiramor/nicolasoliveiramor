@@ -41,16 +41,3 @@
     <img src="https://github-stats-nicolas.vercel.app/api/pin/?username=nicolasoliveiramor&repo=my_portfolio&theme=merko" height="150"/>
   </a>
 </div> 
-  
-<div align="center">
-  <h2>Contato</h2>
-  <a href="https://mail.google.com/mail/nicolasoliveiramor05@gmail.com" target="_blank">
-    <img height="40" src="https://cdn.simpleicons.org/gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/nicolas-oliveira-mor-1397912ab" target="_blank">
-    <img height="40" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
-  </a>
-  <a href="https://wa.me/5511933961754" target="_blank">
-    <img height="40" src="https://cdn.simpleicons.org/whatsapp" />
-  </a>
-</div>
