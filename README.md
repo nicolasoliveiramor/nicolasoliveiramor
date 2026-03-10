@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Desenvolvedor Full-Stack</h1>
+  <h1>Full Stack Engineer</h1>
     <p>
       Meu nome é Nicolas, desenvolvedor Full-Stack Python formado pela EBAC. Tenho 22 anos e projetos em repositorios neste meu perfil, abaixo 
       deixei neste README o link do meu projeto mais recente.
