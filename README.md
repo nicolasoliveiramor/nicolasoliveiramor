@@ -55,6 +55,7 @@
 </div>
 
 <div align="center">
+  <h2>Contato</h2>
   <a href="mailto:nicolasoliveramor05@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
