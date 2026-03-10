@@ -11,8 +11,8 @@
     </p> 
 </div>
   
+<h2>Habilidades</h2>
 <div align="center">
-  <h2>Habilidades</h2>
   <div align="right">
     <img height="40" src="https://cdn.simpleicons.org/react" />
     <img height="40" src="https://cdn.simpleicons.org/redux" />
