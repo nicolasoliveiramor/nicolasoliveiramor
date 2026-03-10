@@ -2,9 +2,11 @@
   <h1>Full Stack Engineer</h1>
     <p>
       Desenvolvedor Full Stack formado pela EBAC – Escola Britânica de Artes Criativas e Tecnologia e graduando no curso de Sistemas de Informação na Universidade Nove de Julho. Possuo experiência prática em desenvolvimento por meio de projetos próprios, incluindo o projeto “Minha-Rede”, uma aplicação que demonstra minhas habilidades em desenvolvimento full stack e construção de aplicações web completas.
-
+    </p>
+    <br/>
+    <p>
       Tenho um perfil comunicativo, flexível e colaborativo, com facilidade para trabalhar em equipe e compreender diferentes necessidades dentro de um projeto. Busco constantemente aprimorar meus conhecimentos     técnicos e aprofundar-me em novas tecnologias, mantendo uma postura proativa e aberta ao aprendizado contínuo no desenvolvimento de soluções eficientes e escaláveis.
-    </p> 
+    </p>
 </div>
 
 <div align="center">
