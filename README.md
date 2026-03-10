@@ -26,7 +26,9 @@
     <img height="40" src="https://cdn.simpleicons.org/sass" />
     <img height="40" src="https://cdn.simpleicons.org/css" />
     <img height="40" src="https://cdn.simpleicons.org/html5" />
+</div>
 
+<div align="left">
     <h2>Back-end</h2>
     <img height="40" src="https://cdn.simpleicons.org/git" />
     <img height="40" src="https://cdn.simpleicons.org/python" />
