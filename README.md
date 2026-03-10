@@ -48,7 +48,7 @@
     <img height="40" src="https://cdn.simpleicons.org/gmail" />
   </a>
   <a href="https://www.linkedin.com/in/nicolas-oliveira-mor-1397912ab" target="_blank">
-    <img height="40" src="https://cdn.simpleicons.org/linkedin" />
+    <img height="40" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
   </a>
   <a href="https://wa.me/5511933961754" target="_blank">
     <img height="40" src="https://cdn.simpleicons.org/whatsapp" />
