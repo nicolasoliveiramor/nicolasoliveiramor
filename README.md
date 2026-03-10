@@ -58,7 +58,7 @@
     <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   
-  <a href="https://www.linkedin.com/in/nicolasoliveiramor" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/nicolasoliveiramor" target="about_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
