@@ -52,5 +52,12 @@
   <a href="https://github.com/nicolasoliveiramor/my_portfolio.git">
     <img src="https://github-stats-nicolas.vercel.app/api/pin/?username=nicolasoliveiramor&repo=my_portfolio&theme=merko" height="150"/>
   </a>
+</div>
+
+<div align="center">
+  <h2>Contato</h2>
+  <a href="https://github.com/nicolasoliveiramor/my_portfolio.git">
+    <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&labelColor=0A66C2&color=0A66C2&link=www.linkedin.com%2Fin%2Fnicolasoliveiramor">
+  </a>
 </div> 
 
